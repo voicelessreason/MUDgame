@@ -8,9 +8,9 @@ Implemented through use of multiple threads, JFrames, EventListeners and abstrac
 Main function is in UI class.
 
 Available actions:
-Get (Item)
-Use (Item)
-Drop (Item)
-Move/Go (Direction)
-Examine
+Get (Item),
+Use (Item),
+Drop (Item),
+Move/Go (Direction),
+Examine,
 Exit
